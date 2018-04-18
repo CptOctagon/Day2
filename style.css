@@ -1,0 +1,9 @@
+
+
+.body {
+  background-color:#6EEDEC;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
